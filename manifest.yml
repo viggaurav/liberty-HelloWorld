@@ -1,8 +1,8 @@
 applications:
 - disk_quota: 1024M
-  host: demowebapp
+  host: demowebapp-gv
   name: DemoWebApp
   path: webStarterApp.war
-  domain: eu-gb.mybluemix.net
+  domain: mybluemix.net
   instances: 1
   memory: 512M
